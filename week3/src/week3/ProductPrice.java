@@ -26,7 +26,7 @@ public class ProductPrice {
 		// 최종 금액
 		double finalPrice = allPrice - discount;
 		
-		System.out.println("할인 금액 : " + finalPrice + "원");
+		System.out.println("최종 결제 금액 : " + finalPrice + "원");
 		
 		
 
